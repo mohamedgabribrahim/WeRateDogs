@@ -29,4 +29,6 @@ Data was gathered and added to the three following datasets
 - tweet-json.txt
 - image-predictions.tsv
 
-**twitter_archive_master.csv** is a Jupyter Notebook that was created after gathering, assessing, cleaning, tyding, and merging the three datasets mentioned above together.
+- **twitter_archive_master.csv** is the csv file that was created after gathering, assessing, cleaning, tyding, and merging the three datasets mentioned above together.
+
+- **wrangle_act.ipynb** is the Jupyter Notebook that contains all the code that was used in the project.
